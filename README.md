@@ -31,6 +31,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 This project was generated with [node Js](https://github.com/nodejs) version 14.16.0.
 
-## Development server
+## Development server 
 
 Run `npm run start` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
